@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm U Sen Wan</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senwan&label=Profile%20views&color=0e75b6&style=flat" alt="senwan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=senwan96&label=Profile%20views&color=0e75b6&style=flat" alt="senwan96" /> </p>
 
 - 📫 How to reach me **senwan96@gmail.com**
 
