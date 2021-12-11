@@ -4,7 +4,7 @@ Hi there,
 This is U Sen Wan, full stack web developer from Bangladesh.
 contact : https://web.facebook.com/profile.php?id=100007172857128
 
-Skills: HTML/CSS/BOOTSRTAP/MONGO /JAVASCRIPT/PYTHON/C/C++
+Skills: HTML/CSS/BOOTSRTAP/JAVASCRIPT/PYTHON/C/C++
 
 - 🔭 I’m currently working on this page. 
 
